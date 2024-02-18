@@ -307,4 +307,4 @@ SVM, RFC (Random Forest Classifier) и ANN (Artificial Neural Network)</b>. Та
 <br>
 
 <h1 align='center'>Список Использумой Литературы / References</h1>
-Список используемой литературы тут: [клик](https://github.com/plugg1N/itmo-ml-research/blob/main/REFERENCES.md)
+Список используемой литературы тут: https://github.com/plugg1N/itmo-ml-research/blob/main/REFERENCES.md
