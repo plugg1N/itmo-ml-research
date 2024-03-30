@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikitlearn&logoColor=gold"/> <!--sklearn-->
 </p>
 
-<p>Версия README.md на русском: [В репозитории](README_rus.md)</p>
+Версия README.md на русском: [В репозитории](README_rus.md)
 
 <p align='right'><b>Author: Zhamkov N. D.<br></b>
 <b>Tutor: Dyakonov А. V.</b></p>
