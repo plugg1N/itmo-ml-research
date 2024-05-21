@@ -51,7 +51,7 @@ streamlit run web.py
 If first didn't work:
 
 ```bash
-python3 -m streamlit web.py
+python3 -m streamlit run web.py
 ```
 
 
