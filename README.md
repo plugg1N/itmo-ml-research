@@ -20,6 +20,42 @@
 
 <br>
 
+<h1 align='center'>Web App</h1>
+
+<p align='justify'>With the recent commit you are able to run inference using local web-app on <code>streamlit</code>. For now, web-app works only on compound inference task for e-coli bacteria. Soon to be upgraded.<p>
+
+<p align='center'><img src='images/animation.gif' width=720></img></p>
+
+<br>
+
+## Follow these steps in order to use this app:
+
+<br>
+
+
+- Clone this repo using:
+```bash
+git clone https://github.com/plugg1N/itmo-ml-research.git
+```
+
+- Install requirements for this project:
+```bash
+pip3 install -r requirements.txt
+```
+
+- Run streamlit app in `src` folder:
+```bash
+streamlit run web.py 
+```
+
+If first didn't work:
+
+```bash
+python3 -m streamlit web.py
+```
+
+
+
 <p align='justify'>
 In the modern world, the problem of rapid and accurate determination of the concentration and type of various bacteria is significant in the fields of medicine and food industry. Currently, for these purposes, the classical Koch method is often used, which, although standard in the field, is criticized for its low detection rate (24-48 hours).
 Therefore, the development of more efficient detection methods is highly relevant. In our research work, we propose an innovative method aimed at determining the concentration and type of bacteria using advanced machine learning techniques. 
